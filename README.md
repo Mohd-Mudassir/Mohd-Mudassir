@@ -1,21 +1,15 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Mohd Mudassir</h1>
+<h1 align="center">Hey 👋, This is Mohd Mudassir</h1>
 <h3 align="center">A passionate Mobile Application Developer.</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-mudassir&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-mudassir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohd-mudassir" alt="mohd-mudassir" /></a> </p>
 
 - 🔭 I’m currently working on [Gyan Fresh](https://play.google.com/store/apps/details?id=com.gyandairy&hl=en&gl=US&pli=1)
 
 - 🌱 I’m currently learning **Android Jetpack Compose and Flutter**
 
-- 📫 How to reach me **mudasssssir@gmail.com**
+- 📫 You can reach me via **mudasssssir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohd mudassir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd mudassir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohd-mudassir-5378b61a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd mudassir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
